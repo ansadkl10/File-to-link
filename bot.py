@@ -3,7 +3,7 @@ from telegram.ext import ApplicationBuilder, MessageHandler, filters, ContextTyp
 from flask import Flask, send_from_directory
 import os
 
-TOKEN = "YOUR_BOT_TOKEN"
+TOKEN = "8314442394:AAFNA9pb5de-e-2KB6n_qjmlCk3aKzttwEI"
 
 app_web = Flask(__name__)
 
